@@ -1,0 +1,81 @@
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+.lineup {
+    background-color: v.$rosa;
+    padding: 5rem 0;
+    
+    h3, p {
+        text-align: center;
+        color: v.$blanco;
+     }
+    .dia {
+        text-transform: uppercase;
+        margin: 5rem 0 3rem 0;
+    }
+}
+
+.escenarios-contenedor {
+    @include m.tablet {
+        @include m.grid (2, 5rem);        
+    }
+
+    p {
+        color: v.$negro;
+    }
+}
+
+.escenario {
+    padding-top: 3rem;
+
+    p {
+        &:after {
+            content: '';
+            display: block;
+            width: 20rem;
+            height: 10rem;
+            background-size: 10rem;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin: 3rem auto 3rem auto;
+        }
+    }
+}
+
+.uno .nombre-escenario:after {
+    background-image: url(../img/iconos/icono_uno.png);
+}
+
+.dos .nombre-escenario:after {
+    background-image: url(../img/iconos/icono_dos.png);
+}
+
+.calendario {
+    @include m.resetear-lista;
+
+    li {
+        padding: 2.5rem;
+        font-size: 2.5rem;
+        span {
+            font-weight: 400;
+            font-size: 2rem;
+        }
+    }
+}
+
+.bg-amarillo {
+    background-color: v.$amarillo;
+
+    li:nth-child(odd) { //Selecciona todos los impares.
+        background-color: darken(v.$amarillo, 25%);
+    }
+}
+
+.bg-verde {
+    background-color: v.$verdeAgua;
+
+    li:nth-child(odd) { //Selecciona todos los impares.
+        background-color: darken(v.$verdeAgua, 10%);
+    }
+
+}
