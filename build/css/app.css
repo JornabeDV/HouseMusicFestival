@@ -508,6 +508,7 @@ img {
 .lineup .dia {
   text-transform: uppercase;
   margin: 5rem 0 3rem 0;
+  font-size: 4rem;
 }
 
 @media (min-width: 768px) {
@@ -633,6 +634,7 @@ img {
   color: #000000;
   display: grid;
   place-items: center;
+  font-weight: 900;
 }
 .btn-cerrar:hover {
   cursor: pointer;
