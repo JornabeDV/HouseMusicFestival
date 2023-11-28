@@ -8,6 +8,8 @@
 !(https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/fd19f594-dc4b-4090-a701-660f216c78b0)
 !(https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/7097d34e-70ac-4577-9219-8b047eabf4e2)
 
+![image](https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/e8205153-c133-4243-ad3f-53913dcb1693)
+
 
 <h1>📌 Technologies </h1>
 
