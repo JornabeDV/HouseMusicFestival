@@ -4,10 +4,9 @@
 <h1>📌  Deploy: https://housefestivalmusic.netlify.app/  </h1>
 
 <h1>📌  Demo: </h1>
-!(https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/df9c487f-8f6a-4f38-94c7-446383fcf5ea)
-!(https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/fd19f594-dc4b-4090-a701-660f216c78b0)
-!(https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/7097d34e-70ac-4577-9219-8b047eabf4e2)
 
+![image](https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/8e7d5b0d-d4da-44fe-a3a7-06c361e73be1)
+![image](https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/cc4a9545-01c7-4048-bea2-e0f1563af48b)
 ![image](https://github.com/JornabeDV/HouseMusicFestival/assets/103864663/e8205153-c133-4243-ad3f-53913dcb1693)
 
 
