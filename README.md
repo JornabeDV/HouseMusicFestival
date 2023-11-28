@@ -1,7 +1,7 @@
 
 <h1>📌 House Festival Music</h1>  
 
-<h1>📌  Deploy:  </h1>
+<h1>📌  Deploy: https://housefestivalmusic.netlify.app/  </h1>
 
 <h1>📌  Demo: </h1>
 
